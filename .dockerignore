@@ -1,0 +1,14 @@
+env
+htmlcov
+*.env.yml
+**/node_modules
+dist/**
+build/**
+build_docs/**
+Dockerfile
+README*
+.env*
+.dockerignore
+.gitignore
+package-lock.json
+test
